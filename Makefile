@@ -1,5 +1,5 @@
 TARGET=main
-OBJ=Dnode.h DoubleLinkedList.h Deque.h Evaluator.h Evaluator.o main.o
+OBJ=Dnode.h DoublyLinkedList.h Deque.h Evaluator.h Evaluator.o main.o
 CC=g++
 CFLAGS=-c
 
